@@ -1,23 +1,46 @@
-<h1 align="center">Hi 👋, I'm Abu Anwar</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+### Hey there, I'm  Hafsa Shaykh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+<div align="center">
+<p align="center">A self-taught front-end developer</p>
+<a href="https://twitter.com/shaikhhafsa215">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/abuanwar072?logo=GitHub&style=for-the-badge)
+<a href="https://www.instagram.com/hafsashaikh200/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+  
+<a href="https://www.linkedin.com/in/hafsa-shaikh-0276561b4/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+  
+<a href="https://www.facebook.com/noorfatima.shaikh.56829">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+</div>
 
-- 🔭 I’m currently working on [TakeIn](https://takein.com/), [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
+  
+### I'm a Flutter Developer!!
 
-- 🌱 I’m currently learning **Flutter, SwiftUI**
+<img align="right" alt="GIF" src="code.gif" width="400" height="320" />  
 
-- 👯 I’m looking to collaborate with **other content creators**
+- ✨ I'm learning **Flutter**
 
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+- 👯 I’m looking to collaborate with **other flutter developers.**
 
-### Connect with me:
+- ⚡ Fun fact **I love to play Badminton 🏸 & spending time outdoors in Nature 🌴.**
 
-<a href="https://twitter.com/abuanwar072" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abuanwar072" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/abuanwar072" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abuanwar072" height="22" width="22" /></a>
-<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 
+### 🛠 Tools & Technology:
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+
+</div>
 
 <br />
 
